@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lukasmaiwald
 - 👀 I’m interested in ... learning new ways to tinker with IT systems, literature, 28mm Wargaming, miniature building & painting, video games, biking (just to name a few)
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... Python, Bash, Linux 
 - 💞️ I’m looking to collaborate on ... interesting new projects where I can learn more 
 - 📫 How to reach me ... Discord ravenor95#2669
 - 😄 Pronouns: he/him 
